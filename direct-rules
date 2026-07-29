@@ -3,7 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "duolingo.com"
+        "duolingo.com"，
+        "www.duolingo.com"，
+        "api.duolingo.com"，
+        "d3tt741pwxqwm0.cloudfront.net"，
+        "d2t3z9y5w3q4e.cloudfront.net"
       ]
     }
   ]
